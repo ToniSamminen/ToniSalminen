@@ -19,7 +19,7 @@ body{
     background-position: center;
 }
 .container{
-    padding: 10px 10%;
+    padding: 5px 10%;
 }
 
 nav{
@@ -30,7 +30,7 @@ nav{
 }
 
 .logo{
-    width: 240px;
+    width: 180px;
 
 }
 
@@ -62,7 +62,7 @@ nav ul li a:hover::after{
 }
 
 .header-text{
-    margin-top: 20%;
+    margin-top: 15%;
     font-size: 30px;
 }
 .header-text h1{
@@ -85,10 +85,11 @@ nav ul li a:hover::after{
 }
 .about-col-2{
     flex-basis: 35%;
+    font-size: 22px;
 }
 
 .about-col-2 img{
-    width: 130%;
+    width: 100%;
     border-radius: 25px;
 }
 
@@ -100,6 +101,7 @@ nav ul li a:hover::after{
     font-size: 60px;
     font-weight: 600;
     color: rgb(0, 0, 0);
+    margin: 0 0 20px;
 }
 
 .tab-titles{
@@ -318,7 +320,7 @@ form .btn2{
     padding: 25px 0;
     background: #262626;
     font-weight: 300;
-    margin: 0 0px 10px;
+    margin: 0 0 15px;
 }
 .copyright i{
     color: #db1313;
@@ -543,7 +545,7 @@ nav .fa-solid{
         padding: 25px 0;
         background: #262626;
         font-weight: 300;
-        margin: 0px 0px 10px;
+        margin: 0 0 30px;
     }
     .copyright p{
         color: #fff;
